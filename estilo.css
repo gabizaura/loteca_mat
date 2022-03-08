@@ -23,4 +23,19 @@ h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-top: 10px;
     letter-spacing: 10px;
+    
 }
+
+.selecao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selecao > input{
+    width: 1.5em;
+    font-size: 4em;
+    margin-right: 15px;
+    background-color: darksalmon;
+}
+
